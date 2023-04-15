@@ -1,0 +1,32 @@
+<html>
+	<head>
+	<title> Definicion IA</title>
+	</head
+<body>
+<body style="background-color: red;">
+	<h2 style="color: white;">
+
+	</h2>
+	<h2>
+	¿Que es html?
+	</h2>
+	<div 
+		div style='text-align:center
+	</div>
+Desarrollo para Internet
+		<p style="color: white;">
+	html es el lenguaje de marcado de hipertexto (html) es un lenguaje informatico que forma parte de la mayoria de las paginas web y aplicaciones en línea.
+		</p>
+	<h2> 
+¿que esperas que se enseñe en el curso de desarrollo de internet?	
+	</h2>
+		<p style="color: white;">
+	Lo que espero de este curso es recordar lo que sabia de html, reforzar y complementar lo que ya sabia, mejorar el proceso y aprender nuevas cosas. 
+		</p>
+	<h2>
+	¿A que te comprementes en este curso?
+	</h2>
+		<p style="color: white;">
+me compremeto a seguir las intrucciones del profesor para lo que dure el curso y realizar lo solicitado y un dar un extra :D
+	</body>
+</html>
